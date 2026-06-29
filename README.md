@@ -1,6 +1,5 @@
 ## Olá! Eu sou a Arielly
 - 🙋🏾‍♀️ Desenvolvi interesse por desenvolvimento web e análise de dados desde o início da minha trajetória, e sigo me aperfeiçoando para me tornar um profissional especializado nessas áreas.
-- 🔎 Atualmente estou em busca de um estagio
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 😄 ela/dela
 
