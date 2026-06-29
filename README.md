@@ -1,7 +1,8 @@
 ## Olá! Eu sou a Arielly
 - 🙋🏾‍♀️ Desenvolvi interesse por desenvolvimento web e análise de dados desde o início da minha trajetória, e sigo me aperfeiçoando para me tornar um profissional especializado nessas áreas.
-- 💻 Cursando Análise e Desenvolvimento de Sistemas
-- 😄 ela/dela
+- Estagiaria do Santander
+- Cursando Análise e Desenvolvimento de Sistemas
+- ela/dela
 
 <picture>
   <source
