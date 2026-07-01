@@ -4,18 +4,6 @@
 - Cursando Análise e Desenvolvimento de Sistemas
 - ela/dela
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ariellybispo&show_icons=true&theme=radical&bg_color=000000&color=ff66b2"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ariellybispo&show_icons=true&bg_color=000000&color=ff66b2"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ariellybispo&show_icons=true&bg_color=000000&color=ff66b2" />
-</picture>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
